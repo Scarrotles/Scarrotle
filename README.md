@@ -5,7 +5,7 @@
 > panumbra
 ```
 
-<img src="CArrot.png" width="200px" align="left">
+<img src="CArrot.png" width="250px" align="left">
 
 ```csharp
 My Profile v0.0.5: SC-01
